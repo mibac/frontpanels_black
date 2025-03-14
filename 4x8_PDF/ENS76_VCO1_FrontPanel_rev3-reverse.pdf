@@ -1,0 +1,857 @@
+%PDF-1.5%‚„œ”
+1 0 obj<</Metadata 36 0 R/Pages 2 0 R/Type/Catalog>>endobj36 0 obj<</Subtype/XML/Length 46100/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.1-c036 46.277092, Fri Feb 23 2007 14:16:18        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">ENS76_VCO1_FrontPanel_rev3-reverse</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/"
+            xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/">
+         <xap:CreatorTool>Adobe Illustrator CS3</xap:CreatorTool>
+         <xap:CreateDate>2014-07-11T11:19:15-05:00</xap:CreateDate>
+         <xap:ModifyDate>2014-07-11T11:19:15-05:00</xap:ModifyDate>
+         <xap:MetadataDate>2014-07-11T11:19:15-05:00</xap:MetadataDate>
+         <xap:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xapGImg:width>200</xapGImg:width>
+                  <xapGImg:height>256</xapGImg:height>
+                  <xapGImg:format>JPEG</xapGImg:format>
+                  <xapGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAADIAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A8uYWLsVdirsVdirsVdir&#xA;sVdirsVdirsVdirsVdirsVfW3/OEn/HA80f8xdt/ybfAyD6WxV2KuxV2KuxV2KuxV2KvyzwsXYq7&#xA;FXYq7FXYq7FXoPlTyD5Z1jy5ba5f6q2n2q3I0zUnZlPpXc9xEts4XgKQm3llkbck+i+4qMCaT2P8&#xA;p9KN5Op8v+YTPDErQ+XBPa/pG5Vrn0TdxMLZmECp8RDW/fZytXCmnm/mvSLTRvM2qaTZ3YvrSxup&#xA;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&#xA;XYq7FXYq7FX/2Q==</xapGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xap:Thumbnails>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
+         <xapMM:DocumentID>uuid:A7879F85750AE411AD80F2BD7EFBC953</xapMM:DocumentID>
+         <xapMM:InstanceID>uuid:208c4716-0121-ab4b-bb3b-62bab59c4f2a</xapMM:InstanceID>
+         <xapMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:A6879F85750AE411AD80F2BD7EFBC953</stRef:instanceID>
+            <stRef:documentID>uuid:BDBA430C740AE411AD80F2BD7EFBC953</stRef:documentID>
+         </xapMM:DerivedFrom>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/">
+         <illustrator:StartupProfile>Basic RGB</illustrator:StartupProfile>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xapG="http://ns.adobe.com/xap/1.0/g/">
+         <xapTPg:NPages>1</xapTPg:NPages>
+         <xapTPg:HasVisibleTransparency>False</xapTPg:HasVisibleTransparency>
+         <xapTPg:HasVisibleOverprint>False</xapTPg:HasVisibleOverprint>
+         <xapTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>4.750000</stDim:w>
+            <stDim:h>9.250000</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xapTPg:MaxPageSize>
+         <xapTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>ArialRoundedMTBold</stFnt:fontName>
+                  <stFnt:fontFamily>Arial Rounded MT Bold</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>Version 1.51x</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Arial Rounded Bold.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MyriadPro-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Myriad Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>Version 2.007;PS 002.000;Core 1.0.38;makeotf.lib1.7.9032</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xapTPg:Fonts>
+         <xapTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xapTPg:PlateNames>
+         <xapTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xapG:groupName>Default Swatch Group</xapG:groupName>
+                  <xapG:groupType>0</xapG:groupType>
+                  <xapG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>White</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.000000</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>0.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>Black</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>74.902000</xapG:cyan>
+                           <xapG:magenta>67.843094</xapG:magenta>
+                           <xapG:yellow>67.058800</xapG:yellow>
+                           <xapG:black>90.196098</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>RGB Red</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.000000</xapG:cyan>
+                           <xapG:magenta>99.215698</xapG:magenta>
+                           <xapG:yellow>100.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>RGB Yellow</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>6.274498</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>96.470604</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>RGB Green</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>62.745102</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>100.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>RGB Cyan</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>51.764702</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>12.549001</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>RGB Blue</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>88.235298</xapG:cyan>
+                           <xapG:magenta>76.862701</xapG:magenta>
+                           <xapG:yellow>0.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>RGB Magenta</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>27.058804</xapG:cyan>
+                           <xapG:magenta>81.568596</xapG:magenta>
+                           <xapG:yellow>0.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=193 G=39 B=45</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>16.862701</xapG:cyan>
+                           <xapG:magenta>98.039200</xapG:magenta>
+                           <xapG:yellow>92.548996</xapG:yellow>
+                           <xapG:black>6.666702</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=237 G=28 B=36</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.392199</xapG:cyan>
+                           <xapG:magenta>99.215698</xapG:magenta>
+                           <xapG:yellow>97.254906</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=241 G=90 B=36</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.000000</xapG:cyan>
+                           <xapG:magenta>79.607803</xapG:magenta>
+                           <xapG:yellow>96.862701</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=247 G=147 B=30</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.000000</xapG:cyan>
+                           <xapG:magenta>50.196098</xapG:magenta>
+                           <xapG:yellow>98.431404</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=251 G=176 B=59</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.000000</xapG:cyan>
+                           <xapG:magenta>34.902000</xapG:magenta>
+                           <xapG:yellow>87.058800</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=252 G=238 B=33</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>4.705900</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>93.333298</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=217 G=224 B=33</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>18.823498</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>98.039200</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=140 G=198 B=63</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>50.196098</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>99.215698</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=57 G=181 B=74</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>74.509796</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>99.607803</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=0 G=146 B=69</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>86.274498</xapG:cyan>
+                           <xapG:magenta>17.647099</xapG:magenta>
+                           <xapG:yellow>100.000000</xapG:yellow>
+                           <xapG:black>3.921598</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=0 G=104 B=55</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>90.196098</xapG:cyan>
+                           <xapG:magenta>33.333302</xapG:magenta>
+                           <xapG:yellow>98.823502</xapG:yellow>
+                           <xapG:black>25.882399</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=34 G=181 B=115</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>76.078400</xapG:cyan>
+                           <xapG:magenta>0.000000</xapG:magenta>
+                           <xapG:yellow>74.902000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=0 G=169 B=157</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>78.431396</xapG:cyan>
+                           <xapG:magenta>9.019602</xapG:magenta>
+                           <xapG:yellow>45.882404</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=41 G=171 B=226</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>69.803902</xapG:cyan>
+                           <xapG:magenta>14.902001</xapG:magenta>
+                           <xapG:yellow>0.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=0 G=113 B=188</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>87.450996</xapG:cyan>
+                           <xapG:magenta>52.549000</xapG:magenta>
+                           <xapG:yellow>0.000000</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=46 G=49 B=146</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>99.215698</xapG:cyan>
+                           <xapG:magenta>96.470604</xapG:magenta>
+                           <xapG:yellow>3.529400</xapG:yellow>
+                           <xapG:black>0.392199</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=27 G=20 B=100</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>100.000000</xapG:cyan>
+                           <xapG:magenta>100.000000</xapG:magenta>
+                           <xapG:yellow>26.274502</xapG:yellow>
+                           <xapG:black>24.705898</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=102 G=45 B=145</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>74.509796</xapG:cyan>
+                           <xapG:magenta>98.431404</xapG:magenta>
+                           <xapG:yellow>0.784302</xapG:yellow>
+                           <xapG:black>0.392199</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=147 G=39 B=143</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>49.411797</xapG:cyan>
+                           <xapG:magenta>99.215698</xapG:magenta>
+                           <xapG:yellow>1.176500</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=158 G=0 B=93</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>34.902000</xapG:cyan>
+                           <xapG:magenta>100.000000</xapG:magenta>
+                           <xapG:yellow>37.254898</xapG:yellow>
+                           <xapG:black>10.980397</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=212 G=20 B=90</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>11.764699</xapG:cyan>
+                           <xapG:magenta>100.000000</xapG:magenta>
+                           <xapG:yellow>49.411797</xapG:yellow>
+                           <xapG:black>0.784302</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=237 G=30 B=121</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>0.000000</xapG:cyan>
+                           <xapG:magenta>96.862701</xapG:magenta>
+                           <xapG:yellow>20.392204</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=199 G=178 B=153</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>22.745096</xapG:cyan>
+                           <xapG:magenta>27.451002</xapG:magenta>
+                           <xapG:yellow>39.999996</xapG:yellow>
+                           <xapG:black>0.000000</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=153 G=134 B=117</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>39.999996</xapG:cyan>
+                           <xapG:magenta>42.745102</xapG:magenta>
+                           <xapG:yellow>52.549000</xapG:yellow>
+                           <xapG:black>6.666702</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=115 G=99 B=87</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>50.588203</xapG:cyan>
+                           <xapG:magenta>52.941196</xapG:magenta>
+                           <xapG:yellow>60.784298</xapG:yellow>
+                           <xapG:black>23.529398</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=83 G=71 B=65</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>57.647099</xapG:cyan>
+                           <xapG:magenta>60.392200</xapG:magenta>
+                           <xapG:yellow>63.921600</xapG:yellow>
+                           <xapG:black>41.960800</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=198 G=156 B=109</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>22.745096</xapG:cyan>
+                           <xapG:magenta>38.431400</xapG:magenta>
+                           <xapG:yellow>63.529404</xapG:yellow>
+                           <xapG:black>1.176500</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=166 G=124 B=82</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>31.764698</xapG:cyan>
+                           <xapG:magenta>49.019600</xapG:magenta>
+                           <xapG:yellow>74.117599</xapG:yellow>
+                           <xapG:black>9.803904</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=140 G=98 B=57</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>36.078400</xapG:cyan>
+                           <xapG:magenta>57.254898</xapG:magenta>
+                           <xapG:yellow>83.921600</xapG:yellow>
+                           <xapG:black>22.745096</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=117 G=76 B=36</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>39.215694</xapG:cyan>
+                           <xapG:magenta>63.921600</xapG:magenta>
+                           <xapG:yellow>93.333298</xapG:yellow>
+                           <xapG:black>35.686302</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=96 G=56 B=19</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>41.568600</xapG:cyan>
+                           <xapG:magenta>69.803902</xapG:magenta>
+                           <xapG:yellow>96.862701</xapG:yellow>
+                           <xapG:black>49.019600</xapG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=66 G=33 B=11</xapG:swatchName>
+                           <xapG:mode>CMYK</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:cyan>47.843098</xapG:cyan>
+                           <xapG:magenta>73.333298</xapG:magenta>
+                           <xapG:yellow>83.529404</xapG:yellow>
+                           <xapG:black>68.235306</xapG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xapG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xapG:groupName>Grayscale</xapG:groupName>
+                  <xapG:groupType>1</xapG:groupType>
+                  <xapG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=100</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>255</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=90</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>229</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=80</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>204</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=70</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>178</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=60</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>153</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=50</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>127</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=40</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>101</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=30</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>76</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=20</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>50</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>K=10</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>25</xapG:gray>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xapG:swatchName>R=241 G=241  B=242</xapG:swatchName>
+                           <xapG:mode>GRAY</xapG:mode>
+                           <xapG:type>PROCESS</xapG:type>
+                           <xapG:gray>12</xapG:gray>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xapG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xapTPg:SwatchGroups>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Adobe PDF library 8.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj2 0 obj<</Count 1/Type/Pages/Kids[5 0 R]>>endobj5 0 obj<</Parent 2 0 R/Contents 32 0 R/BleedBox[0.0 0.0 342.0 666.0]/ArtBox[0.0 0.0 342.0 666.0]/MediaBox[0.0 0.0 342.0 666.0]/TrimBox[0.0 0.0 342.0 666.0]/Resources<</Font<</TT0 28 0 R/T1_0 30 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0<</Color[20224 32768 65535]/Visible false/Editable true/Dimmed false/Preview true/Printed true/Title(Layer 1)>>/MC1<</Contents 7 0 R/Resources<</ExtGState<</GS0 26 0 R>>>>/AIType/HiddenLayer>>/MC2<</Color[20224 20224 65535]/Visible false/Editable true/Dimmed false/Preview true/Printed true/Title(Boundries)>>/MC3<</Contents 9 0 R/Resources<</ExtGState<</GS0 27 0 R>>>>/AIType/HiddenLayer>>/MC4<</Color[0 0 0]/Visible true/Editable true/Dimmed false/Preview true/Printed true/Title(Black)>>/MC5<</Color[65535 20224 20224]/Visible true/Editable true/Dimmed false/Preview true/Printed true/Title(Knobs)>>/MC6<</Color[65535 20224 65535]/Visible true/Editable true/Dimmed false/Preview true/Printed true/Title(Connects)>>/MC7<</Color[20224 65535 65535]/Visible true/Editable true/Dimmed false/Preview true/Printed true/Title(Stars)>>/MC8<</Color[20224 65535 20224]/Visible true/Editable true/Dimmed false/Preview true/Printed true/Title(Text)>>/MC9<</Color[20224 65535 65535]/Visible true/Editable true/Dimmed false/Preview true/Printed true/Title(Registration)>>>>/ExtGState<</GS0 10 0 R>>>>/Type/Page>>endobj32 0 obj<</Length 1563/Filter/FlateDecode>>stream
+HâúW]o€6}◊Ø‡£L2/ø˘ÿfÈ–ÆAZ‘HÜa»\∑ÀÍ:®õbËøﬂπ§c…ÂHÖ¡îx?œΩáºã◊∑?÷;±∏∫ê‚˘Ø¢Z<€<<{¯Â7óWèè≈a≥Ím÷√õM˛$o¢êçÛ!=	œ(ï¯\-~{'≈ßoïRh£Ñs∂â1ä›∫˙x™ÃÓïâ¸˚Ω2‚JT_•%	Ú≤—N°≠n¥ÙN¨æ§›_™Z62í®ïN⁄7’ªÍmW“∆Ü§≤pÅ
+§ZI•Î˛û (açÙê55hMŸ kzí5OG°—Ë–úÏF&˝ò»Çœ∆»∏∆ëWc¶/Â]∂D⁄4Ü—=∂§ñx´é>
+e,,Ÿí•ƒûåÑY≠¢ót∞Ãêµaƒ(Z∂Ê¶Xs™öö•Nd˝<#Û°Yœò*#Ê¸‰®HzÀä®¶EQ::‰ÿ†R;sßöJ›Ãoãª™≠¯	∂å:[ÙE∞êmm£à´ïb;î”◊G™Ì≠ tô2ç¯Oìâ3N©•ª §®≠jÇ,‰`8cm≤^ÈcØQ5r(•-Ú$¨eI≠∫‘µ7á™(:Ô≥ÛtÏºÊˆp¬ö–Xic´-P!Ÿ⁄¡[
+¬™–(€›éÄ»x’Ù}Fr≠ZB_h’Ò8ÌﬁK(⁄%«–!db7LpØCızÇR}3ı9;Û
+•÷è©>T+ÁB„ãruQ—Õ ‰ÉÏπY˘©Â)Ó})“∂ÖJ˚Ó˛d DeÂ+k\áU.ÁñQ—è ã¢‰4ÿÇ•≥p)i9ÌæW}.∞VpÖ¢\Æ÷Q Ê"\	òRÃõ,81ŒKT0ÄòÃDF¨î»≥y|‰ë	ò©
+3-M„)c6Z+7Äô¿¨ut"fâ·ü^á1l®ò®â™ª˝I6ÙB„ZHRNaCv7˝†F≥a…Ã6ƒ∫”6d9·¶(wÜòıçèS&√î
+a&§T#u8m≠°†Ê*Íz˜4≤oÑ˚áüDÜ}K„»∞◊Y¥Z9†eãrOê!„•ùöNÜ%ƒÆœ3Ñ8µ!NÉ≠ΩXç«Ì¿3qKƒˆ∏µrq;8:∑ìõc»7«ØêpŒ	m0 Òü›∫z/∂’ÛeR≈øœ’bπdÉÀè©l7$4Ñ≈8‡pe5‹ÂÀ/’≥ã˚€›\ôŸ∑ı¸œÂ´*bÔÚﬁøòìû›mÛ[üﬂŒ^nÔÓn7‚Õ˚˘Úﬂ™&ﬂ»†EMÏ{í∫ô[9ª›››≤Ùﬂ¸ÿ¨≈≈MRÇ„◊·®¿≈Zπ§Ì5‘ﬂÓƒã+VÜ#IÎΩô7ÔØƒ’˝ál√e1ÿ
+H9&q≥∏^=g∑óËæ⁄◊1ø~˜cª/∑¸‘t˜ıı˜¥˝ryD5òo)AﬁçÆ{≠oFtç≈√Ü$<?y~HˇWìºŸØ¯&Ô“^/–u!áéK›™ä|¨	¨4E±Òò0j∂ı`&Z>P1xE¡<îÏW´
+… ^aj¡!c¯Üû@RÄÓ ùÑπiU:méÍàﬂ%mÇcUì√
+√aŸsaÖñ}\u¬ AŸBPf™ºS€!ç8ŒI£Nú2ò«0¶‚æ·
+º∏NÂ†O*ÊÜ:ÓP‘°Tp<§‚Ò¿S√hﬁ§·i∆ö“X[Gå:°∑Üﬂä3Q#é“˚£.—íÀ,9Ÿxæ–∑,N≈T*≥˛ãa…ƒΩNÌÕa} ·HèS|Aå∏È®$î¸û¯ˇ∑Jí`è÷ŸF¸étÅÚ—d⁄g+‡Ô¯ÛVZµ©JÁäáqXg#*∫#ÑZ®Ë6(Bô›÷æü@NÑ&	|µRùÛ]£∏ ìp+0ÖÏó8ü,ÿ˜Ò+ü¨éMP¡ib¶å!€–!tN5–îˆΩ“Y∫êä‡8óËØ∏£(Y»Õd‹
+ËK¯a°0Úgi˜k´ÿkóvkdèùé˙péé;OËØ}”°hùÙÈ}|†âª◊ô‹uóõıj^£Ûvsí≥˚Ì˝√‹Õ÷ﬂƒ\ªŸÕ≈\—Ïö~ØÓˇŸäÀÕÊn˚iΩõ[=√´Ô€5ÆEdé:ˆmıø  D∑endstreamendobj10 0 obj<</OPM 1/BM/Normal/CA 1.0/OP false/SMask/None/ca 1.0/AIS false/op false/Type/ExtGState/SA true>>endobj9 0 obj<</Length 3968>>stream
+q
+0 666 342 -666 re
+W n
+0 0 0 0.2 K
+4 M 
+/GS0 gs
+q 1 0 0 1 -9.4248 598.9121 cm
+0 0 m
+0 -22.368 -18.132 -40.5 -40.5 -40.5 c
+-62.868 -40.5 -81 -22.368 -81 0 c
+-81 22.368 -62.868 40.5 -40.5 40.5 c
+-18.132 40.5 0 22.368 0 0 c
+h
+S
+Q
+184 562.296 -72 90.792 re
+S
+q 1 0 0 1 188.5371 599 cm
+0 0 m
+0 -22.368 -18.131 -40.5 -40.5 -40.5 c
+-62.867 -40.5 -81 -22.368 -81 0 c
+-81 22.368 -62.867 40.5 -40.5 40.5 c
+-18.131 40.5 0 22.368 0 0 c
+h
+S
+Q
+85.037 562.541 -72 90.792 re
+S
+q 1 0 0 1 89.5747 599.2451 cm
+0 0 m
+0 -22.368 -18.132 -40.5 -40.5 -40.5 c
+-62.868 -40.5 -81 -22.368 -81 0 c
+-81 22.368 -62.868 40.5 -40.5 40.5 c
+-18.132 40.5 0 22.368 0 0 c
+h
+S
+Q
+-14 436.629 -72 90.792 re
+S
+q 1 0 0 1 -9.4629 473.333 cm
+0 0 m
+0 -22.368 -18.132 -40.5 -40.5 -40.5 c
+-62.868 -40.5 -81 -22.368 -81 0 c
+-81 22.368 -62.868 40.5 -40.5 40.5 c
+-18.132 40.5 0 22.368 0 0 c
+h
+S
+Q
+183.964 436.717 -72.002 90.792 re
+S
+q 1 0 0 1 188.5 473.4209 cm
+0 0 m
+0 -22.368 -18.133 -40.5 -40.5 -40.5 c
+-62.868 -40.5 -81 -22.368 -81 0 c
+-81 22.368 -62.868 40.5 -40.5 40.5 c
+-18.133 40.5 0 22.368 0 0 c
+h
+S
+Q
+84.999 436.962 -72 90.792 re
+S
+q 1 0 0 1 89.5366 473.666 cm
+0 0 m
+0 -22.368 -18.132 -40.5 -40.5 -40.5 c
+-62.868 -40.5 -81 -22.368 -81 0 c
+-81 22.368 -62.868 40.5 -40.5 40.5 c
+-18.132 40.5 0 22.368 0 0 c
+h
+S
+Q
+q 1 0 0 1 71.2817 392.103 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.32 -22.32 22.32 c
+-9.993 22.32 0 12.327 0 0 c
+h
+S
+Q
+76 365.025 -54 54 re
+S
+q 1 0 0 1 170.2822 392.103 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.32 -22.32 22.32 c
+-9.993 22.32 0 12.327 0 0 c
+h
+S
+Q
+175 365.025 -54 54 re
+S
+q 1 0 0 1 -27.7183 392.1025 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.32 -22.32 22.32 c
+-9.993 22.32 0 12.327 0 0 c
+h
+S
+Q
+-23 365.025 -54 53.999 re
+S
+q 1 0 0 1 188.2803 185.4121 cm
+0 0 m
+0 -12.328 -9.991 -22.32 -22.319 -22.32 c
+-34.646 -22.32 -44.638 -12.328 -44.638 0 c
+-44.638 12.326 -34.646 22.32 -22.319 22.32 c
+-9.991 22.32 0 12.326 0 0 c
+h
+S
+Q
+193 158.334 -54 54 re
+S
+q 1 0 0 1 35.3193 284.4111 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.319 -22.32 22.319 c
+-9.993 22.319 0 12.327 0 0 c
+h
+S
+Q
+40.037 257.333 -54 53.999 re
+S
+q 1 0 0 1 107.3193 284.4111 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.319 -22.32 22.319 c
+-9.993 22.319 0 12.327 0 0 c
+h
+S
+Q
+112.037 257.333 -54 53.999 re
+S
+q 1 0 0 1 -36.6807 284.4121 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.326 -34.647 22.319 -22.32 22.319 c
+-9.993 22.319 0 12.326 0 0 c
+h
+S
+Q
+-31.963 257.334 -54 53.999 re
+S
+q 1 0 0 1 179.3184 284.4111 cm
+0 0 m
+0 -12.328 -9.992 -22.32 -22.319 -22.32 c
+-34.646 -22.32 -44.639 -12.328 -44.639 0 c
+-44.639 12.326 -34.646 22.32 -22.319 22.32 c
+-9.992 22.32 0 12.326 0 0 c
+h
+S
+Q
+184.037 257.333 -54 54 re
+S
+q 1 0 0 1 8.3188 131.4121 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.319 -22.32 22.319 c
+-9.993 22.319 0 12.327 0 0 c
+h
+S
+Q
+13.037 104.334 -54 53.999 re
+S
+q 1 0 0 1 71.3193 131.4121 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.327 -34.647 22.319 -22.32 22.319 c
+-9.993 22.319 0 12.327 0 0 c
+h
+S
+Q
+76.037 104.334 -54 53.999 re
+S
+q 1 0 0 1 -45.7183 185.4121 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.647 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.326 -34.647 22.319 -22.32 22.319 c
+-9.993 22.319 0 12.326 0 0 c
+h
+S
+Q
+-41 158.334 -54 53.999 re
+S
+q 1 0 0 1 134.2808 131.4111 cm
+0 0 m
+0 -12.328 -9.993 -22.32 -22.32 -22.32 c
+-34.646 -22.32 -44.64 -12.328 -44.64 0 c
+-44.64 12.326 -34.646 22.32 -22.32 22.32 c
+-9.993 22.32 0 12.326 0 0 c
+h
+S
+Q
+139 104.333 -54 54 re
+S
+Q
+endstreamendobj27 0 obj<</OPM 1/BM/Normal/CA 1.0/OP false/SMask/None/ca 1.0/AIS false/op false/Type/ExtGState/SA true>>endobj7 0 obj<</Length 90>>stream
+q
+0 666 342 -666 re
+W n
+0.749 0.678 0.671 0.902 K
+4 M 
+/GS0 gs
+202 68.333 -306 630 re
+S
+Q
+endstreamendobj26 0 obj<</OPM 1/BM/Normal/CA 1.0/OP false/SMask/None/ca 1.0/AIS false/op false/Type/ExtGState/SA true>>endobj28 0 obj<</Subtype/TrueType/FontDescriptor 29 0 R/LastChar 121/Widths[250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 281 0 594 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 740 0 0 604 0 0 313 0 0 604 833 0 792 667 0 0 667 0 0 688 938 0 0 0 0 0 0 0 0 0 594 625 594 625 594 0 0 0 271 0 0 271 0 604 604 0 0 438 542 354 604 0 0 0 542]/BaseFont/SKCCPS+ArialRoundedMTBold/FirstChar 32/Encoding/WinAnsiEncoding/Type/Font>>endobj30 0 obj<</Subtype/Type1/FontDescriptor 31 0 R/LastChar 117/Widths[212 0 0 0 0 0 0 0 0 0 0 0 207 0 0 0 513 513 513 0 513 0 0 0 0 0 0 0 0 0 0 0 0 0 0 580 0 492 0 0 0 0 370 0 0 0 0 689 0 0 0 0 0 0 558 0 0 0 0 0 0 0 0 0 0 0 0 448 0 501 0 559 555 234 0 0 236 0 555 549 0 0 327 396 331 551]/BaseFont/SKCCPS+MyriadPro-Regular/FirstChar 32/Encoding/WinAnsiEncoding/Type/Font>>endobj31 0 obj<</StemV 88/FontName/SKCCPS+MyriadPro-Regular/FontStretch/Normal/FontFile3 35 0 R/FontWeight 400/Flags 32/Descent -250/FontBBox[-157 -250 1126 952]/Ascent 952/FontFamily(Myriad Pro)/CapHeight 674/XHeight 484/Type/FontDescriptor/ItalicAngle 0>>endobj35 0 obj<</Subtype/Type1C/Length 1811/Filter/FlateDecode>>stream
+Hâ|ìyTW∆´(™⁄Àëöb∞Kª
+A#d5(DÉ(*&I 4“—fkËfU¿6ã¨≠¡1 ë≈â*Ç:jÃqA@;âQ†	2ÍôC∆…π’>r2’˙Œ;ÁΩwﬂrøﬂªﬂy8fkÉ·8æ0zShhdÙ≤Õ˘Zµ2)R´ÒåRÌ»NUj≠õº»·¢£≠∏»éEÀ—˛/^Dê`òÁ|≥H∂’≥¡Ò∆”°öÈÓéùYÇè∑∑∑áµ˜^˛kí4â*!:_ó•J”	“∑k¥≠2Kï‰%¨IM¢¨◊tBîJß“ÊXcº¢ΩÑHÈ@zñ∞÷œﬂœ√Öè◊+4A≠îÇVµC-e”™íÑ,≠2Iï¶‘¶öÖ?Pz}]ÙﬂÚ3T¬
+!Iı!Ü·R√Êaÿå≈0s≈∞eÊçaÅ∂√÷aX∏∂√ﬁ¡±hsî™$Eëò˚{Ä;·*ºøo3«Êõõ˚Ñ—C¸nÎgªﬁˆÄÌ0…ëd9”Tﬁ'>Î√•ﬁ•è(∑K,ë3%ÏGWXˇ aäB∫ƒÇ5ò9(õ°‚_Œ!I1%^d≠3dçhTO£¶e9x,'Ó£ŸÏÒûn öF›˜:Íﬂ r"g—˙AÒ‰ ﬁnÜz3µw9z";îŒ£√ö.#@C&l-Ê˜≠g'ªñ ?î∞d˘ ≠O!¬æ˝˜]ûn»oéîÁ⁄É~î9záQãb5≈°%o÷ÖŸO(∫‹$VõpÕÑò‡`BFÉÏ‚yÉ„¯3∞ìOE>E¬ÍMUº‚¯fÚXKoÀw‹≥∂∑7eÓ´QÚYÓ#ìt lÓå‚µ†~Hà.69‰-∫y»–W3æ‰ªpÖ…ê XÉ|!≥æÂ»Ò£˜S•Í2µZé“dÙıﬂã_õ“rÌ€3C‚?'Ÿ];cÙ[8¥¬„Wx¬˛7>ﬂˆÏŸ}ígŒ4‹&ô°Í¨-ıÅR!g©Ì@ô‡åÊA‘»ç∫#m<][nÇ‚;†6·?éb∞Ë»¢ZPCãi˚-@ú/Ωä°ñ¢IrqH' vIïé€úûYy0_Q¥ñ¸®±Ûì6fô/√z^‹Í'£aß˛∂x·6ﬁ>%Ü>&‡ÀÖ£Öí˘…( ¨É’‡Û° ﬁó¨rB|ÒZñKG‰»31HÅ.‡vÇO?(ˇy]é% ◊˛Ä¯ì&¯‘@zQàBc$s&ÕWê<´î øØIü\£éûd¸@“È6åwL‚kèXΩ6πh∑,tlßØé q˛§~Otê¨÷≈ﬁ !ü•CÓ»Ì…k‡zÛB]uO7Îá`’upæéw<Ç™QBLÑ∂‚ê°¶^>°˘ '$CÆ»u¬‹Ô^™´iU\'ìU˙Œ˜Õ^ò[ W\g˚véLpˇiˆã.„È§Ç%∑¿2§œµÔòÄc„Ã3q<gôﬂ:ß!Û¨¯-≤î:õ◊-YH^híè-ª.∂ø‰1¢7ºø¸ùmıGSŸ·dfÁç¬+\ˇ`MwﬂsÆqπ,bJwÌ+PDÁ≈™c8è˜Ó?€´∑›¯J˘˜#¸Å=Er˙ûÙÇLêíãõÃ†7&3©∫ä√üU+Œ1û˝˜ƒÜ`µö°K+ùœnLN›[ê©»(»Œ.‘Œ*ÖÀæçä•,yπø npw33˛bûÔLûåôÓ∂≤)Y∫‘¥F]ÎÈ∆Êñ2æ5ß9YA£Or,±V]´®%V Û
+F* KÊÆ¶õ™5‘®RÙ÷ªÆH0%ò63úìAêÛŸï—Òq:E)≈˜˝DS˚∑W$nì”wÙ‚ú…uË˘ôÄVÒc…ù<P Úú^ÅŸß{∞‹<ßœón`üw9øÅàUÅ˛oˇÙÎc„”Á<ç˛*°x?‘Áó`∆ô~ì√8TI$5Üj≈@uwœ5Æ˙PYÈ!û9¸P∆Ù>˛§b/π%qc6_L1'Jûê!‘˛¯äÿ(9ÙäÂ“#êèùMlÓ©ﬁ¬K»˙GÔ$úl„#ö”Îœ €O¥\4ûﬁΩÁE„ÚHFBM,Á±)¯›Æ˜∆S˘õ∫cYJ˘ˆ¥îMƒ’◊eJµs’õ n·Scƒî8Ã˙¨ˇ’…¢%ÀTËNvqßæ¨<X«ê≈EÖ•:.v◊©´<‘Ä˝-d≥dÙ˜zS¢’2˚a3ò£®ÛX_‘GÌ.ŸΩØHë¥;11í[©πˆòá_‘.C!ì «.\ËlR(&Ô≥U‰=™§£¨ªONÎ´,’(æ
+^ØÍ≠ö…:Hâ+QDÂå¶ Xy¢R¶hH˚®ÊwªŸ∑ÊòÁöÿÕ?ˇ≥ò…˛_Ä çÏî—endstreamendobj29 0 obj<</StemV 132/FontName/SKCCPS+ArialRoundedMTBold/FontFile2 34 0 R/FontStretch/Normal/FontWeight 700/Flags 32/Descent -211/FontBBox[-174 -211 1185 946]/Ascent 946/FontFamily(Arial Rounded MT Bold)/CapHeight 728/XHeight 530/Type/FontDescriptor/ItalicAngle 0>>endobj34 0 obj<</Length 6803/Filter/FlateDecode/Length1 10566>>stream
+Hâ‹ViXW=Øz±YDönAñfëFYöEtpÉ— ¢‚Ç¢"AçK«E'ÓAc‘ƒ›(1≠£ë1é.q◊(âkk>'A3ncf¸¯‘¶ÁV„ñ®ÒˇT˜˚™ﬁ≠˜ŒªÁ‹SØ
+Ä#¶ÅGÔ^Y·ë£Fœh¢»j˝ÜîÊóNÆ 	88©(◊|¸ﬂ%= Y'äó-Ì∞{>!»óQøvË»	≈èvîôÄsuIQ~a˝†_” ØõÑSBÁŸl†µı€ïîñWvm◊£ıç b‰Ë!˘;~#>NÑw≥4ø≤LpdÄÔCØï_ZTq≈°5]zP>ÀFè+◊◊%6\PŸÿ¢≤Z”U7 ,ç∆[ÿ|àêãÀDELÕg∂≈ú´\‰úe/
+<GâˇKGè^={!ö˚úxÆ)ì9…2≥Ü&>Ω-ç•9|Ã”Hä–”Rsx1åqx—yvPüDô\°l°rtrvQª∫π∑ÙlÂ’⁄ªM[_çüV◊Œ?†}`Ppà>4,<¢C§!*:¶cßÿ∏?uÓüêòdLNIMÎöﬁ≠˚ü3zÙÏ’ªOf÷_˙ˆ{'ªŒÄ‹ÅÉÁÂ£`HaQÒ–ía√Gå,5∫lÃÿqÂ„+ﬁ≠ú0q“{ìßLùfz˙3>ú9´jˆúø~4wﬁ¸-˛∏z…“Oñ}∫|≈ œ>_µzÕ⁄uÎ7l¸b”Êö/∑|eﬁ∫Ìo€w|Ω≥ˆÔªæŸ˝è={˜Ì?Pw–·#ﬂ=v¸ƒ…Sßœú≈wÁŒ◊ˇ√Öãó._πjπvÁNL”IA“S5l¨Àb˘¨í-‰épGπ´¸>çª¶µ∆G£’h"4qö?≠_Äñ”:hùµjmKmk≠è6DõÆÕ”˘ªœŸlí9j	)ìÂŸë“Br”¥“¥—hÏH±Ø y=G*$$f≥ŸnHÖ∞≠≥≤ôl…6 µ…xr˘˙gÕ%∫>„z55ıµ·◊&X™-´-s,≥, Kπeåe∞%‹qÈûÀ^{e”0ˆ•⁄>|⁄åÅ	x˝Ò‡ïH÷‡Ã†;’∏Å1s∞_`-\0ˇ∆t,¬m‹¡GXÇY∏äa%6·Ó‚>V„K≈lAÜ`>
+qE¯«p'pßO„;ú¡Y|Ö°¯Pès8è¸åõ®¬p√îb$Fëæ£1eƒj=?Â®¿ª¯	ïòà	òÑ…xµXÖ©T”i0°∑∞?‡:.·2Ì◊p™ˆNƒvÏ¿!ºèòâ:¨#Oú!¶ÂvODAI{ŒÎ}!*ﬁôWÛÓº7»áÒ¯NºëO˝ç_ÇÏéIyõgG4éoúÿ¯^„TªPΩ¡C‡Ï´∫—™:>îèxæÍo⁄›ıÍ™øÛWc^„∆2˚™SÏ´‚ı~≥˛j}`ΩoΩgΩkΩi˝—z’z≈˙Ωı§ı¯À>§&9Ò‰€º(ﬂ&ﬂ,ﬂ _#_-_EæîÍj´_⁄vö€õÊŒZ±6tˆy√}ÂÕ¶∞˘˜ˇÓeâ£‰g⁄Ÿú–Ô ß)æ©Ãvä^	æBqìxE|(9B∂ ü‰óÚæ‹F.õÎ«ıfl-´"ﬂÖ≤Ê«ºôS“˚‚	Ìˇ!ΩnS?ëf?“⁄ÌºNÁ„¥ÚÏ¶‹j)èm0ì:ÎIÕïXN
+/¿<Rr1üI öà’x‚\J:îêRÖ»Eo.˜í≈:Ëƒqb°ÿ[Ã·¨P%tB{¡[î«?‚˘ª¸-æÅr>ƒÔÊ´yé´Ájπı‹rnW¿ÂrΩ9%€∆Ãl%Kg‚ƒ¸ô/kkÁ·…\ô±ë3Åq¥16´Gh$f®Æ∑I]â’Q‚≤üò<„QCïﬂHl$.KâÕ<™∆d{Ê!–mwvrTµÿÆT»e€•∑43CøïÒ˛FMö¶$ø–Ã˚€œYŸ∫pù’;\wßøg¨ggç}≥Õ|∞∑_3Kv˘M TØvıå’S4Tø?ToN≠03]º.fvﬁùëzFs∑
+3ß°Y…ÒfÊr0ç.t)Eg3À”H√≤Ã˛E∫ Ê˘œf=õÇ?û¢I-I	’áÑ—ﬂòpÁÌ)€)'Xﬂ>Y˙ì&°˙©Yﬂp[R„Õræü∆–8ÎÔ∆Å}˝Ò[ƒæÙ§» 7?µüõ⁄Où…Á>Yƒ+≈æè6ã˙GVQ˙fÚ∂5p˛‚9®°NT8™D≈DôR“		
+ÊƒÈ¥—QY<3Dz¥tÁ\ön:µ	*vgûÅqë—¢¸Ò‘X£∂gÆ` Mâˆ%Dì≠ÅœÎ‡Åñâ-‹N*ûUπ¬éN®˛jù6 :*¶c</°™›©Àõ≤Éì˚LXP¶èN¨Í“Ωäü[ó¨7DƒNYﬁ.3˝ÒÃ£ô“∑[±≠A4QæaJÙ”y—3¿|É\U*iT∞Ä Q!Ád
+6MÎË(≠¡‹%a¨}Â”Œ))ãˆaLßÂ‘Ó>ƒèÚëXä¶‘≈?RæÁ”§∏Ã†°˚∑pÛXúnàç’≈≠∑Ûbûπb⁄÷P∑NÒ—Ït⁄ö˙Å©õîne≠éîÃ=;––3∆X:≤È6ﬂ(õ:)Æ[w zô≠AX*Ó¢Ô‘∂â-‚©RÖq
+%'sRÄc&•´≥]Ò‡F•ä¥ÁÊß∂'≠é¢¨öcÇ ∫ì›JINInÚÃJ2fÙI‡vwMMÍõ™∫ùõ⁄Ê“'®Píÿ«?¡ï ©Uck`ı§ñ£T›
+Aeí≥g’Ì®éäi÷_Z®&3)9++91kπ0='ßˇÄ«ì‰ê2ß]u!∏R5Y{Ö¢ÖÃEeÇc3
+i˚<a{≤"´„r“{dt≥Ú˚ˆ1&gâæèÎ”¢cí˚Â	√Z kë≠¡¡ãÙ–Cüÿ6P°ÛU¥RπJÓcÆjNÀXU≠≤äI
+K∂IH∞ˇ#¸˘Á™¸èÓ*nÍ:£˜Íi±dIﬁ¥`…ñ-k≥Öekı"=IœñŸ⁄l=I/ƒÿf1KÕÍ /eèm®	0MBibÉª1m3§[“	î¶–ç§Lì∂?HôÜ4ÂÌPJÔïdBfÕhFzö—=ﬂ˘æsæsÎ–¨ÄR9t1–ßÂ*lD∫’∆≥w|.“?Ìß}jÈçRµèÓèé¯‹ˇii∞’Í≠î~Dºû‰G"tî9;ËQ{í™û†¬3¯pOΩà{…ﬁæhõ°-äÆ6†Õ›˝4j†¢‰“*¿Á+´ÄE%p≥à∑ØDòEå:if"¡∞ô™
+µ63v–äßM»ããŸÖ\Âl_Ïøî∫˜›Ô§Óæ1∞ˆÃa7˛rzı7∑∫›;O≠ﬁÒ÷v÷ﬁL-˝˝BÍt7ª
+K^;eÔé>û˝4ÓŸwyj˙Í·Êü!tÛhæRàO1JWFJá•ê•5>∑¶ L,.@{Ê¡}E•∞Óá‹º“Ã–=fçöTÅ2°™ c¥YuZ∆Õ‘›Â	˜¡ÈÛ}Ω[Rü¶Æ\Mt6RGjÌÍ˛æÊ¶°à¨x◊‚Ëﬂn3ÊSTıH˜ZgÓÙVÑÏ‚ç™±A/À„∂±M≈≤aQ-+÷¿k0»âÍ‡ `-É<6c÷¢ ÀH±í1°Hµ∂Ù§I1ëu6kV⁄Xø¸ce≥1’R¡|0ó∫ˇ„õâëiüΩ∂IZ“4>xËµ’âÒ37¶=8?ÛŒ“◊`±ïUnõ⁄ô0Fb√SøJÑ‡•√‹vº3P mkúì˝}Fπfxio¸gÎ<cv[‘bß÷µWS5≤‚“∂ëo°jùhJöQµ* °¯JæàÀÊ√5<E∆¸‹ÿR.Y≈"!‰@!ÅgU1¯¥r‚–2i’6i¯Ö‹‘ÀEZ3Mí¥E[îzï[$ª¸nV~≤ä¯K–i“∫À%ì,Ÿ\?Ï3÷ÜÍâ7dfª»@HTüﬂÊÙ#$&PN÷p’¸2_\¿gsaèN∏åß÷ù6‰\òçé–fy≈≤≤,Î+m˝úå∞ Û{ˇº[¢∑‘∑Wó‰ﬁìt9∫ƒo∞BÎÙ—ÂÚõoãùv{∑‰^±2‰m	óﬂ&∆íœç¨j≠Úm®&˛347'	eˇ`[Gl8˘W¢«„'ˆ™ﬁ§fd†≠%äwöòML7Ú;pR654ÿ`A])è/·1‹BÉ G]tπ≥9Ù‹Ç£S2 0†ÔG‘BPÃcÃö94/iﬂ◊!Üú^5å˙å¯“´'=(®lé(ª!!I®≥Ó·7wéæ;6%ªv"∆
+ƒ7é˙ ,5ûı:˚£kQ-!≥>Lë˜t≠ÒwœïkˆÙ1z€9[Ø*ﬁ≤ŒæK„®ÒŒˆD/Ω0¯L8∞∞BﬂÇÔKLRÈZ’ﬁ‡:ÜjúA5bW-`¢™“ÈÍ≠L}†(ß2I∞(J˘≥9Z^9*/Q(ÀK◊Ö[∞\@∂o‚/Ùkñ•Î∞eÃYi`~|ˆ7€›{ñ6∏«ÇıÜŒF{´át∑N≈7úrÌ'⁄Xı©ß∫¢˚ˇΩ8u˝Za≤ZÂÅP(¿\§£›…#Ø~ˇá[NG£g±ö{>ˇsıF*(Y•F*,Yîô¯<~ÖïÖÕp∂4á˜•µ∞˜˝?]>ﬁ∏ÃAÁÙ/û~î∫u‡?Kõ.N6uX+%Ê≠ë¯I≠wΩ3º€Pl◊õõa£e◊(u˜!#·3öZT:øˇÁﬂÏÔ´ık¨~ƒkÒ:âx-Eºö)=Ê5Ò*HÛ Ç0*LrL¨àØ≈§Æ»Œ*xºeb5∂°∂¸B¨Ç/-Hò	ÿ3ƒÒ˙Õ”ùCÓÔçüx\.è∑±°„—Ì÷=Ìﬁß€€„^ﬂx”Aπ;TEø¯€8:L—Å'"±P‡°?ÏÜéù˘^⁄µıe:˙
+BﬁãêoDÃVÄ*†•|·’’ï¯Mj¿cŸE‹\ÇTpJÛñ˘U¶˜£>çì]P\»˙[£LSMÃ<˙vƒ;L›~ "÷È≠ˆ›w¶˛õ˙–{‰Í‰¸«;∆ÌÖˇ‚‹º˛ º>pÃ+55kÙö·>VCø~24Û˛ÿÁKﬂ8ö¿{0Å≈÷eî(äA%™D|>'ó«‰)Ã¡ê	8<9ó∫ä¨ª lLê$}>íŒ4v”ı∂pq.y'âuÇÓp¯wmî›◊“‰n«3ó9Òâ3˜U&—·r˘N“ó`Œá#4˝pê¶cË#n√L'®zJ	4ËvƒÅÄõê‹8
+ÆêÀÅsπ ÁdÔHÉßáSä∏|\ÜÒ…aãü,K·aÔ“ÿñzyæèt˙}€:ˆîàNáø≈°∂´à◊ïO≠^3ÔÍM1qyÚÃ≥´¸ŒÖ‘≠ã-àU?Bx!,Jú. îñA©5è«/À™
+àx≥ÚÏ†~ëhÒŒ√Ìf∞04!Íz:»2è˙è_ôûz˜9üˇÿ’â©´«}©œNLuM47≈√S'Ö◊NÜ∫N˝zrÍ⁄Û°ÆìÔM.¸Ñ>∑eÛ|Ùßà´£(Ω«íR‘])‡A	D~T\ïè®brp‰ñìﬂc◊¡4eo¯	∂Yx:H:¸á[H¬¥!;◊Zô∑≥öÙÎÛ·ˆ[4	3Ó_äE"±XªπI„ûZBÁF–πItn=pSuVΩTòÿ4O@áﬁgè[@21Ë7BdÑjxà–.»Å@èÂŸêê·fŸˆ3˝Kª°ˆ´D1ÇH~ÌÉO¸~Ñ2≠¨ÎwØènùN\‹4Ù÷Ã¶Û€nªﬁ°-ãx;áºõ˜û•°˚Y∫w¶≈@ÈµﬁéZo≥B¯z¯˘U’ùΩ+kI£±“ËÆ]YØñï≈v„.E∑¨Î†•≥J¸†
+±M»„* ˆ(πIçM)áèDdÄïHE≤WÇ"Kz!‡®î“,À+aˆŒ≤L:*∑ s´:≠‡‰Áì´æ$oƒÓ\’m·Í™WÑ•J€Òô}á™‘éˇ±_≠QQ]W¯õ;g Ä"W©éÇQDAëGqƒ—XäNùëáÉ√h@M„h≠1jç⁄Zc1±∆>ú⁄‘§iõXcJõ∂i“G“ñVõæ≤V]ç)…j´È Í≤–Ô."+∏˝ﬂ9ÎªÁõs˜ŸgüΩ˜y‹EKD˙π“ §©©âïeóÚ˘s˙#K Ú2JÀ]'÷¢
+é¸≠pø§ØÕÒŸ¸æ≤•D∆DrΩ§&E€M&å^5É;ËÃå°E7Ùm5?oƒR5;≥}ªùõN;rV/™“W//€1urUqÒ Â°‘Eu≥ú+÷>•%;W9WıWnU8Kºl™‚?ÁÌ‹>i_løS$”æŸ¸Üòë™¸òq≤Õnõeèxj¶'L—L∞nâÉﬁÃ¢Öñ|ìqæÊƒ©Àÿ‡›ÄFNéóΩÈ@Bˇ≈î¥≈3äN˛Îõâ≥≥)Ö)bbtwÊ∫£;;;‚„'eÕwõk*¶ß.L´,ˇœFmkïk⁄ÙÇîIÂi∑Îw™Ã-À ±Zßñ…†{é¨ººj⁄Ü˚æèqvi2.,:¯Æ¨{n<˛NwmƒN€1˘%À]A]∏YÎØeCòoª#v*=wˇn
+¿)â6Ñ0Æò{±U¥`ºËAçµŸ÷XÏ4ı°^ÎEàòCò.¬®”B8G˘t÷am1í(øë[	ë@¥ƒIbQ™‰C8JRè™O`Ω≠Eñ‰OX˙∞ô8kq·åË≈)´⁄qñ˝.P6CæSÌag˚9æØó≤™ñ˝]hµ eK≈∂R)?ùmãQú«qi3Î…øC`‡Á‚§}N Ïó∂≤ÆaΩ^ºG^À˛˚5kéÅ⁄pFr[,b˚>¢JˆìrÙœA·¢zë¨ﬁπêo!K8êOÀö€ä8˛E÷s9~©1Ô|5o9cN“~i”= ˝π˛n–¶CDm|ÉË≤mÏÅTôp:càZ⁄øLÑ†ëwY˙>ê`ﬁ]£ü~@§
+Rl}ˇV>π*ñI–Ö¢'Õ∑ê«w…÷»a{¨ñaR9ÔTk: m-≥ó≤'‡íπgËà=o±N◊≈Òè9vèÃ—!_…qÌãQk3Nåüù0áQOT©‹$§>⁄ê.˝.corÙwÀº‘˙pÑ∏¿q˙°˙»º<«˛µad´qã;5¡˜á¥}Ë#OR1c5ï'aÿ	ç˘sÉu2qùÿG¥ræRFÊ™ Ê„˙cÖ¥UŸ,«ï˘F´åQH‰p].3ê'ÁŒı∫ëÆâCYƒ“:ÜÚä,&°J∫*µ¶Û,he™\ñ≈l27åR^sƒ.qÕ2◊(õUŸœr’ö¨ ÷Wl3l£ºˆˇ2ˆ¢vÒõ¿Üzn€Q∞"ñ{w∂Òü|;O+ø≥◊;xòåÛ π◊ÿª¬‡f∂◊\ê{n·Ωyá¡≠òà˝∑·<>»˘à¬?n‚H˝◊a≤‹L>ﬁ‡Ç<¡‡Ú∑í;nCÑ≤ ƒ≠Ç≥3Â*n!o*Q‹™⁄k∑©ˆz≈Ìä˚ó:\¶]7a∂Èó◊xÌªmp3fkë‰π∑ Qk0∏iZß¡mxVÎV<R⁄`ÆQ|ú◊º^Ò(’ﬁ¢xå‚€/«5ÔQ|˘DÛcä«*ô≥ä«)=O+Ø⁄Ø(û†˙æ™xííπ™x≤íy[Ò≈o)û&Â≈†Á*#π]Ÿ,¶*ÆÙãèH5ÿÆÊ•Ï%5Æä’•UeK˝Ì]ÅÊ∆¶†~^œ.,Ã—ÁË’˛6∞´›´◊uµ˚Óˆ¶.›Ùd.	4ª}∫”ø≠Õ„ıË’uz©ﬂÁqz∑˘‹ÅQﬂç⁄ËÚ:ö˝mzvf^vßí0™ÎÜ˚|UØ∏=ﬁVw`ãÓﬂ|/ãÙÄ∑±π#ËP{sõlÚÍkVÎµÓ†>SØ´Œt∑ytØØ√˚`%2ó¯|zπ◊‹v‘¯ı•MÓ∂FÔ7åÖ†~ÆÀV∏·#˚∫L—\M-h√b¯›jY∑¡√gÄ7™SÊgÃ/ö_"^0_2_¿R ∂£ãÔö—à&JÎ8Od£ê%álQM)©5H…vé££N1?˚®πù=ªÿÍ£ÑôX¢Ù…Òuﬁ˙¸‹-§^BÍ™„≥î≠>˛w≤µëÔ} æ±˜ª§ã≠tPZŒAŒ,y|vﬁ•c§Ÿ¥qûVÛñÛïr≠ ‚-lÛcÛˇÏ#ùmrÊÕ¥,®,¥ΩYŸ§¨‘∞ÜÒ”πc∫U\f*ù’¥0¢:e|ÏÔ≈ÉJ^Í»ë√\˛kı›[#‰|‘qwŒ®¨πáNe∫Ó˛/¶âlQ)ñãb>Gå–FΩ˜“R√ÁvÂUÈ?ÈÒÄäÜ¥‚ﬁ}FÁÉﬂ#»aLF˚›TGâ∆˝GpÁµróµÛàƒ8û.—à¡}è	<Å&ÒúãC<&c
+êà$LE2¶!Ö^üéHE“ë~yŒ‚◊ùÉÎd.ΩüÖyÃ≠˚πrrôeÛëèÆ£(¬BÛ>¥%úa)◊›2î°À±Çß„JT¢äë≠¡GÌUÃ«’åÙÊÓZ¨„∏„	¸q4`o_nÆ˜M*7´5€ÃuøÖsoU˛k«VïÔA˙p;3£ì1⁄ÅùÿÖáI<å›aˆ‚SÿáOÛ§}(‚„38Ç«p«pü≈Ápü«Iû¿ßt„4û¿ì8É/‚,û¬9|	_∆Wx˛ûG_√|ù+‰∏àg,æâÁ-|ﬂ¡Ûxó]\Ê)|/·{Ë¡˜yRøå‚G¯1Ô~?¡´x?≈œs¸Ø„¸
+øF/~Éﬂ‚*ÆÒ$ø«G¸	f6˝◊Ò6˜πw7Ù·]ºáø„º‹ƒ-ºè·wx—≤ÃÎ∫c⁄ΩÅføgì∑MmÃ÷V˜¶ÄøMîm¯KVï∏X
+Áœyππ"gﬁ<ë57SÃ—gâ›íì"¢c,»Ωx∆Ú‰±”‚Ë1À—Éá≈£{{ˆZˆ¨›-\k-t\t‘∏»ªÕj∑V0Ïáü7{ˆ%«c˚Ïƒ)ã∆oò9ß¸WÄ ’g…endstreamendobj33 0 obj<</CreationDate(D:20140711111915-05'00')/Creator(Adobe Illustrator CS3)/Producer(Adobe PDF library 8.00)/ModDate(D:20140711111915-05'00')/Title(ENS76_VCO1_FrontPanel_rev3-reverse)>>endobjxref0 370000000003 65535 f
+0000000016 00000 n
+0000046255 00000 n
+0000000004 00001 f
+0000000006 00000 f
+0000046306 00000 n
+0000000008 00001 f
+0000053527 00000 n
+0000000011 00001 f
+0000049396 00000 n
+0000049283 00000 n
+0000000012 00001 f
+0000000013 00001 f
+0000000014 00001 f
+0000000015 00001 f
+0000000016 00001 f
+0000000017 00001 f
+0000000018 00001 f
+0000000019 00001 f
+0000000020 00001 f
+0000000021 00001 f
+0000000022 00001 f
+0000000023 00001 f
+0000000024 00001 f
+0000000025 00001 f
+0000000000 00001 f
+0000053665 00000 n
+0000053414 00000 n
+0000053778 00000 n
+0000056710 00000 n
+0000054176 00000 n
+0000054554 00000 n
+0000047650 00000 n
+0000063870 00000 n
+0000056983 00000 n
+0000054814 00000 n
+0000000077 00000 n
+trailer<</Size 37/Root 1 0 R/Info 33 0 R/ID[<919A5F83D67B48A3B43A96122E19DF27><CE56520B7C8B4AF285898ED7E4D71BF2>]>>startxref64068%%EOF
